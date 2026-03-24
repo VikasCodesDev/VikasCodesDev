@@ -131,15 +131,5 @@ interests:
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VikasCodesDev&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-**⭐️ From [VikasCodesDev](https://github.com/VikasCodesDev) with 💜**
-
 </div>
 
