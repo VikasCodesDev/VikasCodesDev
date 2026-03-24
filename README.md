@@ -121,7 +121,6 @@ interests:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VikasCodesDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VikasCodesDev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
