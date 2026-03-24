@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Vikas Mishra
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Building Real-World Solutions
+### 🚀 Full-Stack Developer | AI ML Enthusiast | UI/UX Designer | Building Real-World Applications
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI-Powered+Solutions;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
