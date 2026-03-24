@@ -62,7 +62,6 @@ interests:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-mishra0106)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MishraVika46260)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmr.vik136@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://your-portfolio-link.com)
 
 </div>
 
@@ -84,12 +83,11 @@ interests:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 💬 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -122,72 +120,21 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VikasCodesDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=VikasCodesDev&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VikasCodesDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VikasCodesDev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasCodesDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=VikasCodesDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasCodesDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
-
-[![Vikas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VikasCodesDev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=VikasCodesDev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-### ✍️ Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=VikasCodesDev&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-
-### 💰 Support Me
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-link)
 
 ---
 
@@ -196,3 +143,4 @@ interests:
 **⭐️ From [VikasCodesDev](https://github.com/VikasCodesDev) with 💜**
 
 </div>
+
